@@ -1,0 +1,39 @@
+[
+    {
+        "name":"Punto de venta",
+        "key":"puntoDeVenta"
+    },
+    {
+        "name":"Pago movil",
+        "key":"pagoMovil"
+    },
+    {
+        "name":"Debito Ahorro Vnzla",
+        "key":"Debito Ahorro Vnzla"
+    },
+    {
+        "name":"Debito Corriente Vnzla",
+        "key":"Debito Corriente Vnzla"
+    },
+    {
+        "name":"Transferencia Vnzla",
+        "key":"vzlaTransfer"
+    },
+    {
+        "name":"Credito mastercard Vnzla",
+        "key":"Credito Mastercard Vnzla"
+    },
+    {
+        "name":"Credito visa Vnzla",
+        "key":"Credito Visa Vnzla"
+    },
+    
+    {
+        "name":"Monedero patria",
+        "key":"Monedero Patria"
+    },
+    {
+        "name":"Efectivo Bs",
+        "key":"efectivoBs"
+    }
+]
